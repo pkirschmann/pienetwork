@@ -1,0 +1,44 @@
+`variables`
+
+`interface`
+
+
+block number
+xpos 154
+ypos 117
+command 5
+
+block onfor
+xpos 104
+ypos 111
+command onfor
+
+block touch?
+xpos 104
+ypos 79
+command toucha?
+
+block when
+xpos 50
+ypos 75
+command when
+
+block proc
+xpos 50
+ypos 50
+command "run"
+
+`info`
+`author`
+Unknown
+`title`
+Unknown
+`location`
+Unknown
+`age`
+
+`gender`
+M
+`information`
+
+`endinformation`

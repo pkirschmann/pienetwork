@@ -1,0 +1,129 @@
+`variables`
+
+`interface`
+
+
+block number
+xpos 154
+ypos 356
+command 5
+
+block number
+xpos 154
+ypos 337
+command 10
+
+block note
+xpos 104
+ypos 331
+command note
+
+block number
+xpos 154
+ypos 268
+command 5
+
+block number
+xpos 154
+ypos 249
+command 10000
+
+block number
+xpos 154
+ypos 312
+command 10000
+
+block number
+xpos 154
+ypos 293
+command 10000
+
+block note
+xpos 104
+ypos 287
+command note
+
+block note
+xpos 104
+ypos 243
+command note
+
+block number
+xpos 100
+ypos 106
+command 70
+
+block number
+xpos 154
+ypos 180
+command 1
+
+block wait
+xpos 104
+ypos 174
+command wait
+
+block beep
+xpos 104
+ypos 149
+command beep
+
+block number
+xpos 100
+ypos 129
+command 10
+
+block repeat
+xpos 50
+ypos 125
+command repeat
+
+block onfor
+xpos 50
+ypos 100
+command onfor
+
+block touch?
+xpos 104
+ypos 75
+command toucha?
+
+block waituntil
+xpos 50
+ypos 75
+command waituntil
+
+block proc
+xpos 50
+ypos 50
+command "run"
+
+block note
+xpos 104
+ypos 199
+command note
+
+block number
+xpos 154
+ypos 205
+command 10000
+
+block number
+xpos 154
+ypos 224
+command 5
+
+`info`
+`author`
+Unknown
+`title`
+Unknown
+`location`
+Unknown
+`age`
+
+`gender`
+M
+`information`
+
+`endinformation`

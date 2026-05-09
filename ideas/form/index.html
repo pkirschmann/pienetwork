@@ -1,0 +1,190 @@
+<html>
+<head>
+<title>Idea Form</title>
+<style type="text/css">
+<!--
+body { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #666666; background: #ffffff; }
+td { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #666666; }
+a { font-family: Arial, Helvetica, sans-serif; color: #666666; text-decoration: underline; }
+.abutton { font-weight: bold; background: #22eeee; }
+-->
+</style>
+</head>
+<body text="#666666" bgcolor="#ffffff">
+
+<center>
+<div align="center">
+
+<img src="images/pie_ideas_header.jpg">
+<br>
+<form method="post" action="search.php">
+<table width="600" border="0" cellpadding="10" cellspacing="0"><tr>
+<td align="center" style="font-size: 16px"><b>Add Ideas</b> | <a href="view.php">View Ideas</a> | <input name="search" type="text" size="10"> <input type="submit" value="Search"></td>
+</tr></table>
+</form>
+
+<img src="images/line.gif" width="600" height="12">
+
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<form action="submit.php" encType="multipart/form-data" method="post" name="sendform">
+<input name="MAX_FILE_SIZE" type="hidden" value="10000000">
+<tr>
+
+<td rowspan="2" align="right" valign="top">
+<br><br><img src="images/arrow-rd.gif">
+</td>
+
+<td colspan="2" align="center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="images/nw.gif" width="30" height="30" alt=""></td>
+<td><img src="images/n.gif" width="100%" height="30" alt=""></td>
+<td><img src="images/ne.gif" width="30" height="30" alt=""></td>
+</tr><tr>
+<td background="images/ew.gif">&nbsp;</td>
+<td align="center">Tell us about something you've made</td>
+<td background="images/ew.gif">&nbsp;</td>
+</tr><tr>
+<td><img src="images/sw.gif" width="30" height="30" alt=""></td>
+<td><img src="images/s.gif" width="100%" height="30" alt=""></td>
+<td><img src="images/se.gif" width="30" height="30" alt=""></td>
+</tr>
+</table>
+</td>
+
+</tr><tr>
+
+<td align="left" valign="middle">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="images/nw.gif" width="30" height="30" alt=""></td>
+<td><img src="images/n.gif" width="100%" height="30" alt=""></td>
+<td><img src="images/ne.gif" width="30" height="30" alt=""></td>
+</tr><tr>
+<td background="images/ew.gif">&nbsp;</td>
+<td>
+Do you have a name or title for it?
+<br>
+<input name="title" type="text" size="15">
+<div align="center"><img src="images/line.gif" width="130" height="12" vspace="10"><br></div>
+What kind of idea is it?
+<br>
+<select name="type">
+<option></option>
+<option>inspired</option>
+<option>half-baked</option>
+<option>borrowed</option>
+<option>playful</option>
+<option>second-hand</option>
+<option>amazing</option>
+</select>
+</td>
+<td background="images/ew.gif">&nbsp;</td>
+</tr><tr>
+<td><img src="images/sw.gif" width="30" height="30" alt=""></td>
+<td><img src="images/s.gif" width="100%" height="30" alt=""></td>
+<td><img src="images/se.gif" width="30" height="30" alt=""></td>
+</tr>
+</table>
+</td>
+
+<td align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="images/nw.gif" width="30" height="30" alt=""></td>
+<td><img src="images/n.gif" width="100%" height="30" alt=""></td>
+<td><img src="images/ne.gif" width="30" height="30" alt=""></td>
+</tr><tr>
+<td background="images/ew.gif">&nbsp;</td>
+<td>
+Where did you get the idea? How did you design and build it? What does it do?<br>
+<textarea name="describe" cols="30" rows="10"></textarea>
+</td>
+<td background="images/ew.gif">&nbsp;</td>
+</tr><tr>
+<td><img src="images/sw.gif" width="30" height="30" alt=""></td>
+<td><img src="images/s.gif" width="100%" height="30" alt=""></td>
+<td><img src="images/se.gif" width="30" height="30" alt=""></td>
+</tr>
+</table>
+</td>
+
+</tr>
+</table>
+
+
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td align="center" valign="middle" background="images/circle.gif" width="300" height="268">
+<br>You can also add a picture...
+<br>
+<table><tr><td>
+<input size="15" name="image" type="file" accept="image/jpeg, image/jpg">
+<br>
+<div style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPG files only</div>
+</td></tr></table>
+<br>
+<img src="images/scrapbook.gif">
+</td>
+
+<td align="left" valign="top">
+<img src="images/arrow-ld.gif">
+</td>
+
+<td align="left" valign="bottom">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="images/nw.gif" width="30" height="30" alt=""></td>
+<td><img src="images/n.gif" width="100%" height="30" alt=""></td>
+<td><img src="images/ne.gif" width="30" height="30" alt=""></td>
+</tr><tr>
+<td background="images/ew.gif">&nbsp;</td>
+<td>
+You can add your e-mail address (if you're over 13 years old).<br>
+<input name="email" type="text" value="" size="20">
+<div align="center"><img src="images/line.gif" width="160" height="12" vspace="10"><br></div>
+Do you have a website about your project? Or one that inspired you? Send it to us!<br>
+<input name="url" type="text" value="http://" size="20">
+</td>
+<td background="images/ew.gif">&nbsp;</td>
+</tr><tr>
+<td><img src="images/sw.gif" width="30" height="30" alt=""></td>
+<td><img src="images/s.gif" width="100%" height="30" alt=""></td>
+<td><img src="images/se.gif" width="30" height="30" alt=""></td>
+</tr>
+</table>
+</td>
+
+</tr>
+</table>
+
+
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td align="center" valign="top">
+<img src="images/arrow-ru.gif">
+</td>
+
+</tr><tr>
+
+<td align="center" valign="bottom">
+<br>
+Click to send us your idea!<br>
+<input type="submit" value="Submit" class="abutton">
+<br>
+<img src="images/line.gif" width="600" height="12" vspace="10">
+</td>
+
+</tr>
+</table>
+
+<img src="images/pie_ideas_footerB.jpg">
+
+</div>
+</center>
+
+</form>
+</body>
+</html>

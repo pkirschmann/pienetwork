@@ -1,0 +1,89 @@
+`variables`
+
+`interface`
+
+
+block number
+xpos 100
+ypos 256
+command 25
+
+block onfor
+xpos 50
+ypos 250
+command onfor
+
+block number
+xpos 100
+ypos 156
+command 25
+
+block number
+xpos 100
+ypos 181
+command 20
+
+block number
+xpos 100
+ypos 206
+command 3
+
+block thisway
+xpos 50
+ypos 225
+command thatway
+
+block setpower
+xpos 50
+ypos 200
+command setpower
+
+block wait
+xpos 50
+ypos 175
+command wait
+
+block onfor
+xpos 50
+ypos 150
+command onfor
+
+block number
+xpos 100
+ypos 131
+command 7
+
+block setpower
+xpos 50
+ypos 125
+command setpower
+
+block thisway
+xpos 50
+ypos 100
+command thisway
+
+block a,
+xpos 50
+ypos 75
+command a,
+
+block proc
+xpos 50
+ypos 50
+command "run"
+
+`info`
+`author`
+Unknown
+`title`
+Unknown
+`location`
+Unknown
+`age`
+
+`gender`
+M
+`information`
+
+`endinformation`

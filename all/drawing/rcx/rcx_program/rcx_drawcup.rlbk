@@ -1,0 +1,109 @@
+`variables`
+
+`interface`
+
+
+block sensor
+xpos 154
+ypos 81
+command sensor1
+
+block rd
+xpos 158
+ypos 280
+command rd
+
+block a,
+xpos 158
+ypos 255
+command a,
+
+block number
+xpos 208
+ypos 236
+command 2
+
+block number
+xpos 254
+ypos 214
+command 8
+
+block sensor
+xpos 254
+ypos 194
+command sensor1
+
+block +
+xpos 208
+ypos 191
+command /
+
+block note
+xpos 158
+ypos 211
+command note
+
+block blank
+xpos 158
+ypos 186
+command 
+
+block number
+xpos 244
+ypos 160
+command 700
+
+block sensor
+xpos 172
+ypos 160
+command sensor1
+
+block <
+xpos 158
+ypos 154
+command <
+
+block if
+xpos 104
+ypos 150
+command if
+
+block on
+xpos 104
+ypos 125
+command on
+
+block a,
+xpos 104
+ypos 100
+command a,
+
+block print
+xpos 104
+ypos 75
+command print
+
+block loop
+xpos 50
+ypos 73
+command loop
+
+block proc
+xpos 50
+ypos 48
+command "run"
+
+`info`
+`author`
+Unknown
+`title`
+Unknown
+`location`
+Unknown
+`age`
+
+`gender`
+M
+`information`
+
+`endinformation`

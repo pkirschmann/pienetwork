@@ -1,0 +1,64 @@
+`variables`
+
+`interface`
+
+
+block number
+xpos 154
+ypos 155
+command 1
+
+block rd
+xpos 104
+ypos 174
+command rd
+
+block wait
+xpos 104
+ypos 149
+command wait
+
+block on
+xpos 104
+ypos 124
+command brake
+
+block number
+xpos 154
+ypos 105
+command 2
+
+block onfor
+xpos 104
+ypos 99
+command onfor
+
+block number
+xpos 100
+ypos 79
+command 10
+
+block repeat
+xpos 50
+ypos 75
+command repeat
+
+block proc
+xpos 50
+ypos 50
+command "run"
+
+`info`
+`author`
+Unknown
+`title`
+Unknown
+`location`
+Unknown
+`age`
+
+`gender`
+M
+`information`
+
+`endinformation`
