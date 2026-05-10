@@ -2,7 +2,7 @@
 <head>
 <title>Playful Invention and Exploration - Twenty things to do with crickets</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="../css/main.css">
 <script language="JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -33,42 +33,42 @@ function MM_swapImage() { //v3.0
 
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('/images/navi/home-over.gif','/images/navi/a2zOVER.gif','/images/navi/cricketOVER.gif','/images/navi/scrapbookOVER.gif','/images/navi/try2OVER.gif','/images/navi/workshopsOVER.gif','/images/navi/balloon_over.gif')">
+<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('../images/navi/home-over.gif','../images/navi/a2zOVER.gif','../images/navi/cricketOVER.gif','../images/navi/scrapbookOVER.gif','../images/navi/try2OVER.gif','../images/navi/workshopsOVER.gif','../images/navi/balloon_over.gif')">
 
 <table width="700" border="0" cellspacing="0" cellpadding="5">
 <tr>
 
 <td rowspan="2" width="70" align="center" valign="top">
 
-<a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/navi/home-over.gif',1)"><img name="home" border="0" src="/images/navi/home-up.gif" width="50" height="50" align="top"></a><br>
-<a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/navi/home-over.gif',1)">Home</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8" align="middle"><br>
+<a href="../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../images/navi/home-over.gif',1)"><img name="home" border="0" src="../images/navi/home-up.gif" width="50" height="50" align="top"></a><br>
+<a href="../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../images/navi/home-over.gif',1)">Home</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8" align="middle"><br>
 
-<a href="/a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('try2','','/images/navi/try2OVER.gif',1)"><img name="try2" border="0" src="/images/navi/try2ICON.gif" width="56" height="58"></a><br>
-<a href="/a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('try2','','/images/navi/try2OVER.gif',1)">Things to Try</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('try2','','../images/navi/try2OVER.gif',1)"><img name="try2" border="0" src="../images/navi/try2ICON.gif" width="56" height="58"></a><br>
+<a href="../a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('try2','','../images/navi/try2OVER.gif',1)">Things to Try</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','/images/navi/a2zOVER.gif',1)"><img src="/images/navi/a2zICON.gif" name="a2z" width="45" height="45" border="0" id="a2z"></a><br>
-<a href="/ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','/images/navi/a2zOVER.gif',1)">Project Gallery</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','../images/navi/a2zOVER.gif',1)"><img src="../images/navi/a2zICON.gif" name="a2z" width="45" height="45" border="0" id="a2z"></a><br>
+<a href="../ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','../images/navi/a2zOVER.gif',1)">Project Gallery</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','/images/navi/cricketOVER.gif',1)"><img src="/images/navi/cricketICON.gif" name="cricket" width="50" height="47" border="0" id="cricket"></a><br>
-<a href="/crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','/images/navi/cricketOVER.gif',1)">Crickets</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','../images/navi/cricketOVER.gif',1)"><img src="../images/navi/cricketICON.gif" name="cricket" width="50" height="47" border="0" id="cricket"></a><br>
+<a href="../crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','../images/navi/cricketOVER.gif',1)">Crickets</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','/images/navi/scrapbookOVER.gif',1)"><img name="scrapbook" border="0" src="/images/navi/scrapbookICON.gif" width="59" height="40"></a><br>
-<a href="/events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','/images/navi/scrapbookOVER.gif',1)">Events</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','../images/navi/scrapbookOVER.gif',1)"><img name="scrapbook" border="0" src="../images/navi/scrapbookICON.gif" width="59" height="40"></a><br>
+<a href="../events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','../images/navi/scrapbookOVER.gif',1)">Events</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
 
-<a href="/workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('workshops','','/images/navi/workshopsOVER.gif',1)"><img src="/images/navi/workshopsICON.gif" name="workshops" width="38" height="40" border="0" id="sign1"></a><br>
-<a href="/workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('workshops','','/images/navi/workshopsOVER.gif',1)">Workshops</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('workshops','','../images/navi/workshopsOVER.gif',1)"><img src="../images/navi/workshopsICON.gif" name="workshops" width="38" height="40" border="0" id="sign1"></a><br>
+<a href="../workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('workshops','','../images/navi/workshopsOVER.gif',1)">Workshops</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','/images/navi/balloon_over.gif',1)"><img src="/images/navi/balloon_up.gif" name="balloon11" width="60" height="38" border="0" id="balloon1"></a><br>
+<a href="../philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','../images/navi/balloon_over.gif',1)"><img src="../images/navi/balloon_up.gif" name="balloon11" width="60" height="38" border="0" id="balloon1"></a><br>
 
-<a href="/about/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','/images/navi/balloon_over.gif',1)">About PIE</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8">
+<a href="../about/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','../images/navi/balloon_over.gif',1)">About PIE</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8">
 
 <br><br><br>
 
@@ -78,7 +78,7 @@ function MM_swapImage() { //v3.0
 
 
 
-<link href="/css/main.css" rel="stylesheet" type="text/css">
+<link href="../css/main.css" rel="stylesheet" type="text/css">
 <table width="621" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="702" valign="top"><p align="center"><img src="../images/playful_header_sm.gif" width="494" height="66"><br>
@@ -182,7 +182,7 @@ function MM_swapImage() { //v3.0
 <td align="center" valign="bottom">
 
 <font size="-2" face="Verdana, Arial, Helvetica, sans-serif">
-<a href="/">Home</a> | <a href="/a2z/">Things to Try</a> | <a href="/ideas/">Project Gallery</a> | <a href="/workshops/">Workshops</a> | <a href="/events/">Events</a> | <a href="/crickets/">Crickets</a> | <a href="/about/">About PIE</a>
+<a href="../">Home</a> | <a href="../a2z/">Things to Try</a> | <a href="../ideas/">Project Gallery</a> | <a href="../workshops/">Workshops</a> | <a href="../events/">Events</a> | <a href="../crickets/">Crickets</a> | <a href="../about/">About PIE</a>
 <br><br>
  Send suggestions to the <a href="mailto:piewebteam&#64;smm.org">PIE web team</a>
 </font>

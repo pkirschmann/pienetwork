@@ -2,7 +2,7 @@
 <head>
 <title>Playful Invention and Exploration - PIE Ideas</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="../css/main.css">
 <script language="JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -33,40 +33,40 @@ function MM_swapImage() { //v3.0
 
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('/images/navi/home-over.gif','/images/navi/a2zOVER.gif','/images/navi/cricketOVER.gif','/images/navi/scrapbookOVER.gif','/images/navi/resourcesOVER.gif','/images/navi/sign_over.gif','/images/navi/balloon_over.gif')">
+<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('../images/navi/home-over.gif','../images/navi/a2zOVER.gif','../images/navi/cricketOVER.gif','../images/navi/scrapbookOVER.gif','../images/navi/resourcesOVER.gif','../images/navi/sign_over.gif','../images/navi/balloon_over.gif')">
 
 <table width="700" border="0" cellspacing="0" cellpadding="5">
 <tr>
 
 <td rowspan="2" width="70" align="center" valign="top">
 
-<a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/navi/home-over.gif',1)"><img name="home" border="0" src="/images/navi/home-up.gif" width="50" height="50" align="top"></a><br>
-<a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/navi/home-over.gif',1)">Home</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8" align="middle"><br>
+<a href="../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../images/navi/home-over.gif',1)"><img name="home" border="0" src="../images/navi/home-up.gif" width="50" height="50" align="top"></a><br>
+<a href="../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../images/navi/home-over.gif',1)">Home</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8" align="middle"><br>
 
-<a href="/a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','/images/navi/a2zOVER.gif',1)"><img src="/images/navi/a2zICON.gif" name="a2z" width="44" height="23" border="0" id="a2z"></a><br>
-<a href="/a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','/images/navi/a2zOVER.gif',1)">Index</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','../images/navi/a2zOVER.gif',1)"><img src="../images/navi/a2zICON.gif" name="a2z" width="44" height="23" border="0" id="a2z"></a><br>
+<a href="../a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','../images/navi/a2zOVER.gif',1)">Index</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','/images/navi/cricketOVER.gif',1)"><img src="/images/navi/cricketICON.gif" name="cricket" width="50" height="47" border="0" id="cricket"></a><br>
-<a href="/crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','/images/navi/cricketOVER.gif',1)">Crickets</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','../images/navi/cricketOVER.gif',1)"><img src="../images/navi/cricketICON.gif" name="cricket" width="50" height="47" border="0" id="cricket"></a><br>
+<a href="../crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','../images/navi/cricketOVER.gif',1)">Crickets</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','/images/navi/scrapbookOVER.gif',1)"><img name="scrapbook" border="0" src="/images/navi/scrapbookICON.gif" width="59" height="40"></a><br>
-<a href="/events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','/images/navi/scrapbookOVER.gif',1)">Events</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','../images/navi/scrapbookOVER.gif',1)"><img name="scrapbook" border="0" src="../images/navi/scrapbookICON.gif" width="59" height="40"></a><br>
+<a href="../events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','../images/navi/scrapbookOVER.gif',1)">Events</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','/images/navi/resourcesOVER.gif',1)"><img name="resources" border="0" src="/images/navi/resourcesICON.gif" height="40"></a><br>
-<a href="/ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','/images/navi/resourcesOVER.gif',1)">Ideas</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','../images/navi/resourcesOVER.gif',1)"><img name="resources" border="0" src="../images/navi/resourcesICON.gif" height="40"></a><br>
+<a href="../ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','../images/navi/resourcesOVER.gif',1)">Ideas</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/locations/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','/images/navi/sign_over.gif',1)"><img src="/images/navi/sign_up.gif" name="sign11" width="60" height="58" border="0" id="sign1"></a><br>
-<a href="/locations/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','/images/navi/sign_over.gif',1)">Locations</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../locations/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','../images/navi/sign_over.gif',1)"><img src="../images/navi/sign_up.gif" name="sign11" width="60" height="58" border="0" id="sign1"></a><br>
+<a href="../locations/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','../images/navi/sign_over.gif',1)">Locations</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','/images/navi/balloon_over.gif',1)"><img src="/images/navi/balloon_up.gif" name="balloon11" width="60" height="38" border="0" id="balloon1"></a><br>
-<a href="/philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','/images/navi/balloon_over.gif',1)">Philosophy</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8">
+<a href="../philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','../images/navi/balloon_over.gif',1)"><img src="../images/navi/balloon_up.gif" name="balloon11" width="60" height="38" border="0" id="balloon1"></a><br>
+<a href="../philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','../images/navi/balloon_over.gif',1)">Philosophy</a><br>
+<img src="../images/navi/small-line.jpg" width="54" height="8">
 
 <br><br><br>
 
@@ -77,7 +77,7 @@ function MM_swapImage() { //v3.0
 
 <table width="650" border="0" cellpadding="0" cellspacing="5">
   <tr>
-    <td rowspan="4" valign="top" background="/images/spiral_2.gif" width="40"><img src="/images/spacer_dot_white.gif" width="40" height="5"></td>
+    <td rowspan="4" valign="top" background="../images/spiral_2.gif" width="40"><img src="../images/spacer_dot_white.gif" width="40" height="5"></td>
     <td rowspan="4" valign="top" width="1"><table width="600" border="0" cellpadding="5">
       <tr> 
           <td valign="top"><div align="center">
@@ -90,7 +90,7 @@ function MM_swapImage() { //v3.0
         </div></td>
       </tr>
       <tr>
-        <td><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+        <td><img src="../a2z/images/line.jpg" width="601" height="12"></td>
       </tr>
     </table>
       <map name="Map">
@@ -126,25 +126,25 @@ function MM_swapImage() { //v3.0
           <tr >
             <td valign="top" >&nbsp;</td>
             <td ><b><font size="-1"><img src="images/wanderwands.jpg" width="75" height="64" align="middle"></font></b></td>
-            <td ><b><a href="/a2z/a/alligator-clip-sensor/">Alligator Clip Sensor</a></b></td>
+            <td ><b><a href="../a2z/a/alligator-clip-sensor/">Alligator Clip Sensor</a></b></td>
           </tr>
           <tr >
             <td valign="top" ><img src="images/alphabets/pieA.jpg" width="21" height="22"></td>
             <td ><img src="a/alligator_clip_rcx/images/sensor.jpg" width="75" height="73"></td>
-            <td ><b><a href="/a2z/a/alligator_clip_rcx/">Alligator Clip Sensor for RCX</a></b></td>
+            <td ><b><a href="../a2z/a/alligator_clip_rcx/">Alligator Clip Sensor for RCX</a></b></td>
           </tr>
           <tr >
             <td valign="top" >&nbsp;</td>
             <td ><img src="images/animal.jpg" width="75" height="74"></td>
-            <td ><a href="/a2z/a/animals/"><strong>Animals</strong></a></td>
+            <td ><a href="../a2z/a/animals/"><strong>Animals</strong></a></td>
           </tr>
           <tr >
             <td width="30" valign="top" >&nbsp;</td>
-            <td width="30" ><b><a href="/a2z/a/art_car/"><img src="images/artcar04_JPG.jpg" width="75" height="56" border="0" align="middle"></a></b></td>
-            <td width="707" ><b> <a href="/a2z/a/art_car/">Art Car</a> </b></td>
+            <td width="30" ><b><a href="../a2z/a/art_car/"><img src="images/artcar04_JPG.jpg" width="75" height="56" border="0" align="middle"></a></b></td>
+            <td width="707" ><b> <a href="../a2z/a/art_car/">Art Car</a> </b></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="b"></a><img src="images/alphabets/pieB.jpg" width="18" height="22"></td>
@@ -152,35 +152,35 @@ function MM_swapImage() { //v3.0
             <td width="707" ><b> </b></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="c"></a><img src="images/alphabets/pieC.jpg" width="18" height="22"></td>
             <td width="30" ><b><a href="c/cable_ties/"><img src="images/soundtree.gif" width="75" height="55" align="middle"></a></b></td>
-            <td width="707" ><b> <a href="/a2z/c/cable_ties/">Cable Ties</a></b></td>
+            <td width="707" ><b> <a href="../a2z/c/cable_ties/">Cable Ties</a></b></td>
           </tr>
           <tr >
             <td width="30" valign="top" >&nbsp;</td>
             <td width="30" ><a href="c/copper_foil/"><img src="images/copper.jpg" width="75" height="84" border="0"></a></td>
-            <td width="707" ><b> <a href="/a2z/c/copper_foil/">Copper Foil</a></b></td>
+            <td width="707" ><b> <a href="../a2z/c/copper_foil/">Copper Foil</a></b></td>
           </tr>
           <tr >
             <td valign="top" >&nbsp;</td>
             <td ><img src="images/cupdraw.jpg" width="75" height="63"></td>
-            <td ><b><a href="/a2z/c/cup_draw/">Cup Draw</a></b></td>
+            <td ><b><a href="../a2z/c/cup_draw/">Cup Draw</a></b></td>
           </tr>
           <tr >
             <td width="30" valign="top" >&nbsp;</td>
             <td width="30" ><b><img src="c/cup_draw_nocricket/images/dimeontop.jpg" width="75" height="71"></b></td>
-            <td width="707" ><b><a href="/a2z/c/cup_draw_nocricket/">Cup Draw (Low Tech) </a> </b></td>
+            <td width="707" ><b><a href="../a2z/c/cup_draw_nocricket/">Cup Draw (Low Tech) </a> </b></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="d"></a><img src="images/alphabets/pieD.jpg" width="19" height="22"></td>
-            <td width="30" ><img src="/a2z/images/domino.jpg" width="75" height="64"></td>
-            <td width="707" ><b><a href="/a2z/d/domino/">Dominoes</a></b></td>
+            <td width="30" ><img src="../a2z/images/domino.jpg" width="75" height="64"></td>
+            <td width="707" ><b><a href="../a2z/d/domino/">Dominoes</a></b></td>
           </tr>
           <!--         <tr >
           <td valign="top" >&nbsp;</td>
@@ -188,7 +188,7 @@ function MM_swapImage() { //v3.0
           <td ><b><a href="d/day_in_the_park/">Day in the Park</a></b></td>
         </tr> -->
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="e"></a><img src="images/alphabets/pieE.jpg" width="16" height="22"></td>
@@ -196,7 +196,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="f"></a><img src="images/alphabets/pieF.jpg" width="17" height="22"></td>
@@ -204,7 +204,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="g"></a><img src="images/alphabets/pieG.jpg" width="19" height="22"></td>
@@ -212,7 +212,7 @@ function MM_swapImage() { //v3.0
             <td width="707" >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="h"></a><img src="images/alphabets/pieH.jpg" width="20" height="22"></td>
@@ -220,15 +220,15 @@ function MM_swapImage() { //v3.0
             <td width="707" >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="i"></a><img src="images/alphabets/pieI.jpg" width="14" height="22"></td>
             <td width="30" ><img src="images/musicalice.jpg" width="75" height="56"></td>
-            <td width="707" ><b><a href="/a2z/i/ice/">Ice Theremin</a></b></td>
+            <td width="707" ><b><a href="../a2z/i/ice/">Ice Theremin</a></b></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="j"></a><img src="images/alphabets/pieJ.jpg" width="13" height="22"></td>
@@ -236,7 +236,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="k"></a><img src="images/alphabets/pieK.jpg" width="19" height="21"></td>
@@ -244,7 +244,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="l"></a><img src="images/alphabets/pieL.jpg" width="16" height="22"></td>
@@ -254,10 +254,10 @@ function MM_swapImage() { //v3.0
           <tr >
             <td width="30" valign="top" >&nbsp;</td>
             <td width="30" ><a href="l/lights/index_jan15.html"><img src="images/lights_on_off.gif" width="75" height="56" border="0"></a></td>
-            <td width="707" ><b><a href="/a2z/l/lights/">Lights</a></b></td>
+            <td width="707" ><b><a href="../a2z/l/lights/">Lights</a></b></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="m"></a><img src="images/alphabets/pieM.jpg" width="22" height="22"></td>
@@ -265,15 +265,15 @@ function MM_swapImage() { //v3.0
             <td width="707" ><b><a href="m/modules/">Making Stuff Move: Motion Modules</a></b></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" >&nbsp;</td>
-            <td width="30" ><b><a href="/a2z/m/marble_mazes/index.php"><img src="images/marble_maze.jpg" width="75" height="86" border="0"></a></b></td>
-            <td width="707" ><b><a href="/a2z/m/marble_mazes/">Marble Mazes</a> </b></td>
+            <td width="30" ><b><a href="../a2z/m/marble_mazes/index.php"><img src="images/marble_maze.jpg" width="75" height="86" border="0"></a></b></td>
+            <td width="707" ><b><a href="../a2z/m/marble_mazes/">Marble Mazes</a> </b></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="n"></a><img src="images/alphabets/pieN.jpg" width="19" height="22"></td>
@@ -281,7 +281,7 @@ function MM_swapImage() { //v3.0
             <td width="707" ><p><a href="n/nightlight/"><strong>Night Lights</strong></a></p></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="o"></a><img src="images/alphabets/pieO.jpg" width="21" height="22"></td>
@@ -289,7 +289,7 @@ function MM_swapImage() { //v3.0
             <td width="707" ><a href="o/overnight/"><strong>Overnight Painting Machine</strong></a></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="p"></a><img src="images/alphabets/pieP.jpg" width="21" height="22"></td>
@@ -297,7 +297,7 @@ function MM_swapImage() { //v3.0
             <td width="707" ><a href="p/paperfolding/"><strong>Paper Folding </strong></a></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="q"></a><img src="images/alphabets/pieQ.jpg" width="23" height="29"></td>
@@ -305,7 +305,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="r"></a><img src="images/alphabets/pieR.jpg" width="21" height="23"></td>
@@ -313,7 +313,7 @@ function MM_swapImage() { //v3.0
             <td width="707" >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="s"></a><img src="images/alphabets/pieS.jpg" width="20" height="22"></td>
@@ -326,7 +326,7 @@ function MM_swapImage() { //v3.0
             <td width="707" ><a href="s/spinart/"><strong>Spin Art</strong></a></td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="t"></a><img src="images/alphabets/pieT.jpg" width="20" height="22"></td>
@@ -339,7 +339,7 @@ function MM_swapImage() { //v3.0
             <td width="707" ><a href="t/circuit_bending/"><strong>Toying with sound </strong></a></td>
           </tr>
 <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="u"></a><img src="images/alphabets/pieU.jpg" width="20" height="22"></td>
@@ -347,7 +347,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="v"></a><img src="images/alphabets/pieV.jpg" width="22" height="20"></td>
@@ -355,7 +355,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td width="30" valign="top" ><a name="w"><img src="images/alphabets/pieW.jpg" width="30" height="21" border="0"></a></td>
@@ -369,7 +369,7 @@ function MM_swapImage() { //v3.0
           </tr>
 
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="x"></a><img src="images/alphabets/pieX.jpg" width="21" height="22"></td>
@@ -377,7 +377,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="y"></a><img src="images/alphabets/pieY.jpg" width="22" height="21"></td>
@@ -385,7 +385,7 @@ function MM_swapImage() { //v3.0
             <td >&nbsp;</td>
           </tr>
           <tr >
-            <td colspan="3" valign="top" ><img src="/a2z/images/line.jpg" width="601" height="12"></td>
+            <td colspan="3" valign="top" ><img src="../a2z/images/line.jpg" width="601" height="12"></td>
           </tr>
           <tr >
             <td valign="top" ><a name="z"></a><img src="images/alphabets/pieZ.jpg" width="20" height="22"></td>
@@ -418,7 +418,7 @@ function MM_swapImage() { //v3.0
 <td align="center" valign="bottom">
 
 <font size="-2" face="Verdana, Arial, Helvetica, sans-serif">
-<a href="/">Home</a> | <a href="/a2z/">A to Z</a> | <a href="/crickets/">Crickets</a> | <a href="/events/">Events</a> | <a href="/ideas/">Ideas</a> | <a href="/locations/">Locations</a> | <a href="/philosophy/">Philosophy</a>
+<a href="../">Home</a> | <a href="../a2z/">A to Z</a> | <a href="../crickets/">Crickets</a> | <a href="../events/">Events</a> | <a href="../ideas/">Ideas</a> | <a href="../locations/">Locations</a> | <a href="../philosophy/">Philosophy</a>
 <br><br>
 PIE is the Playful Invention and Exploration Network<br>
 Send additions or corrections to <a href="mailto:piewebteam&#64;smm.org">piewebteam</a>

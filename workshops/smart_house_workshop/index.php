@@ -2,7 +2,7 @@
 <head>
 <title>Playful Invention and Exploration - Smart House Workshop</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="../../css/main.css">
 <script language="JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -33,42 +33,42 @@ function MM_swapImage() { //v3.0
 
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('/images/navi/home-over.gif','/images/navi/a2zOVER.gif','/images/navi/cricketOVER.gif','/images/navi/scrapbookOVER.gif','/images/navi/resourcesOVER.gif','/images/navi/sign_over.gif','/images/navi/balloon_over.gif')">
+<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('../../images/navi/home-over.gif','../../images/navi/a2zOVER.gif','../../images/navi/cricketOVER.gif','../../images/navi/scrapbookOVER.gif','../../images/navi/resourcesOVER.gif','../../images/navi/sign_over.gif','../../images/navi/balloon_over.gif')">
 
 <table width="700" border="0" cellspacing="0" cellpadding="5">
 <tr>
 
 <td rowspan="2" width="70" align="center" valign="top">
 
-<a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/navi/home-over.gif',1)"><img name="home" border="0" src="/images/navi/home-up.gif" width="50" height="50" align="top"></a><br>
-<a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/navi/home-over.gif',1)">Home</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8" align="middle"><br>
+<a href="../../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../../images/navi/home-over.gif',1)"><img name="home" border="0" src="../../images/navi/home-up.gif" width="50" height="50" align="top"></a><br>
+<a href="../../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../../images/navi/home-over.gif',1)">Home</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8" align="middle"><br>
 
-<a href="/a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','/images/navi/resourcesOVER.gif',1)"><img name="resources" border="0" src="/images/navi/resourcesICON.gif" height="40"></a><br>
-<a href="/a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','/images/navi/resourcesOVER.gif',1)">Things to Try</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','../../images/navi/resourcesOVER.gif',1)"><img name="resources" border="0" src="../../images/navi/resourcesICON.gif" height="40"></a><br>
+<a href="../../a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','../../images/navi/resourcesOVER.gif',1)">Things to Try</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','/images/navi/a2zOVER.gif',1)"><img src="/images/navi/a2zICON.gif" name="a2z" width="45" height="45" border="0" id="a2z"></a><br>
-<a href="/ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','/images/navi/a2zOVER.gif',1)">Project Gallery</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','../../images/navi/a2zOVER.gif',1)"><img src="../../images/navi/a2zICON.gif" name="a2z" width="45" height="45" border="0" id="a2z"></a><br>
+<a href="../../ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','../../images/navi/a2zOVER.gif',1)">Project Gallery</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','/images/navi/cricketOVER.gif',1)"><img src="/images/navi/cricketICON.gif" name="cricket" width="50" height="47" border="0" id="cricket"></a><br>
-<a href="/crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','/images/navi/cricketOVER.gif',1)">Crickets</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','../../images/navi/cricketOVER.gif',1)"><img src="../../images/navi/cricketICON.gif" name="cricket" width="50" height="47" border="0" id="cricket"></a><br>
+<a href="../../crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','../../images/navi/cricketOVER.gif',1)">Crickets</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','/images/navi/scrapbookOVER.gif',1)"><img name="scrapbook" border="0" src="/images/navi/scrapbookICON.gif" width="59" height="40"></a><br>
-<a href="/events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','/images/navi/scrapbookOVER.gif',1)">Events</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','../../images/navi/scrapbookOVER.gif',1)"><img name="scrapbook" border="0" src="../../images/navi/scrapbookICON.gif" width="59" height="40"></a><br>
+<a href="../../events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','../../images/navi/scrapbookOVER.gif',1)">Events</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
 
-<a href="/workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','/images/navi/sign_over.gif',1)"><img src="/images/navi/sign_up.gif" name="sign11" width="60" height="58" border="0" id="sign1"></a><br>
-<a href="/workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','/images/navi/sign_over.gif',1)">Workshops</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','../../images/navi/sign_over.gif',1)"><img src="../../images/navi/sign_up.gif" name="sign11" width="60" height="58" border="0" id="sign1"></a><br>
+<a href="../../workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','../../images/navi/sign_over.gif',1)">Workshops</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','/images/navi/balloon_over.gif',1)"><img src="/images/navi/balloon_up.gif" name="balloon11" width="60" height="38" border="0" id="balloon1"></a><br>
+<a href="../../philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','../../images/navi/balloon_over.gif',1)"><img src="../../images/navi/balloon_up.gif" name="balloon11" width="60" height="38" border="0" id="balloon1"></a><br>
 
-<a href="/about/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','/images/navi/balloon_over.gif',1)">About PIE</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8">
+<a href="../../about/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','../../images/navi/balloon_over.gif',1)">About PIE</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8">
 
 <br><br><br>
 
@@ -78,10 +78,10 @@ function MM_swapImage() { //v3.0
 
  
 
-<link href="/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../css/main.css" rel="stylesheet" type="text/css">
 <title>Smart House workshop</title><table width="650" border="0" cellspacing="0" cellpadding="0">
 <tr align=center>
-  <td><p><img src="/images/playful_header_sm.gif" width="494" height="66"></p>
+  <td><p><img src="../../images/playful_header_sm.gif" width="494" height="66"></p>
     <p>&nbsp;</p></td>
 </tr>
 <tr align=center>
@@ -102,7 +102,7 @@ function MM_swapImage() { //v3.0
         <!-- THE DIRECTIONS OR TEXT AND THE IMAGES GO ALONG HERE -->
         <tr> 
           <td colspan="2"><div align="center" class="style2">Goals of the Workshop<br>
-            <img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+            <img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
           <td colspan="2"><ul>
@@ -121,11 +121,11 @@ function MM_swapImage() { //v3.0
         </tr>
         <tr> 
           <td colspan="2"><div align="center" class="style2">Materials<br>
-            <img src="/a2z/images/line_500.gif" width="502" height="12">
+            <img src="../../a2z/images/line_500.gif" width="502" height="12">
             </div></td>
         </tr>
         <tr> 
-          <td width="172"><img src="/a2z/s/smart_house_workshop/images/materials.jpg" width="150" height="200"></td>
+          <td width="172"><img src="../../a2z/s/smart_house_workshop/images/materials.jpg" width="150" height="200"></td>
           <td width="328"><ul>
               <li>Crickets, motors, and cables. </li>
               <li>Sensors - light sensors, touch sensors, and resistance sensors 
@@ -148,29 +148,29 @@ function MM_swapImage() { //v3.0
         </tr>
         <tr> 
           <td colspan="2"><div align="center" class="style2">Set Up<br>
-            <img src="/a2z/images/line_500.gif" width="502" height="12">          </div></td>
+            <img src="../../a2z/images/line_500.gif" width="502" height="12">          </div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/smart_house_class.jpg" width="150" height="200"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/smart_house_class.jpg" width="150" height="200"></td>
           <td>The Smart House workshops at SMM are offered as a summer class. 
             They meet 3 hours a day for five days. This class was for kids ages 
             9 to 12.</td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/worktable_sm.jpg" width="150" height="112"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/worktable_sm.jpg" width="150" height="112"></td>
           <td>We set up our room with two large tables in the center for building, 
             with computers around the edge of the room (but very close by) so 
             it is easy to go back and forth between building and working on the 
             computer. </td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/materials_action_sm.jpg" width="150" height="141"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/materials_action_sm.jpg" width="150" height="141"></td>
           <td><p>We put materials out on tables, grouped (roughly) by category: 
               building materials, craft supplies, Cricket materials, LEGOs.</p>
             <p>We set up two glue gun stations on tables in different parts of 
@@ -178,7 +178,7 @@ function MM_swapImage() { //v3.0
         </tr>
         <tr>
           <td colspan="2"><div align="center" class="style2">Introduction<br>
-          <img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
           <td colspan="2"><p>On the first day of the workshop we spent about an hour designing 
@@ -188,7 +188,7 @@ function MM_swapImage() { //v3.0
           materials or in unusual shapes. </p></td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
           <td colspan="2"><p>Next, we looked at and talked about a variety of interesting 
@@ -201,7 +201,7 @@ function MM_swapImage() { //v3.0
           features. </p></td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
           <td colspan="2"><p>We also took some time during the week to explore &quot;smart&quot; 
@@ -211,29 +211,29 @@ function MM_swapImage() { //v3.0
           more about the Science House.</a></p></td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/testing_out.jpg" width="150" height="106"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/testing_out.jpg" width="150" height="106"></td>
           <td>We gave the students some time just to experiment with the motors 
             and sensors. We assigned the class a 15-minute mini-project: program 
             your cricket to turn the motor on with a sensor.</td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><a href="/a2z/s/smart_house_workshop/images/planning.gif" target="_blank"><img src="/a2z/s/smart_house_workshop/images/planning_sm.gif" width="150" height="129" border="2"></a></td>
+          <td><a href="../../a2z/s/smart_house_workshop/images/planning.gif" target="_blank"><img src="../../a2z/s/smart_house_workshop/images/planning_sm.gif" width="150" height="129" border="2"></a></td>
           <td>We asked the students to pair up and to start thinking about their 
             house together. Before they started building, they needed to show 
             us a drawing of their house and talk to one of the facilitators about 
             their plan.</td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/supplies.jpg" width="150" height="204"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/supplies.jpg" width="150" height="204"></td>
           <td>We set out supplies on a separate table. We showed some of the more 
             interesting materials. And we shared examples of houses we've made 
             or are working on.</td>
@@ -241,28 +241,28 @@ function MM_swapImage() { //v3.0
         <tr> 
           <td colspan="2"><div align="center"><span class="style2">Working &amp; 
               Playing<br>
-              <img src="/a2z/images/line_500.gif" width="502" height="12"></span></div></td>
+              <img src="../../a2z/images/line_500.gif" width="502" height="12"></span></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/building.jpg" width="150" height="146"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/building.jpg" width="150" height="146"></td>
           <td>Most of the groups started out by constructing the structure of 
             their house. We helped groups find materials that would make the building 
             easier.</td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/opening_door.jpg" width="150" height="192"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/opening_door.jpg" width="150" height="192"></td>
           <td>Once the groups were making good progress on constructing their 
             houses, we checked in with the groups to see how they were thinking 
             about incorporating smart features.</td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/module.jpg" width="150" height="111"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/module.jpg" width="150" height="111"></td>
           <td>Because it is sometimes hard to imagine how to put parts together 
             to make a door open and close (for example), the EZ modules can be 
             really useful. We showed a few examples of the EZ modules to the class, 
@@ -270,20 +270,20 @@ function MM_swapImage() { //v3.0
             with their project.</td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/2part_house.jpg" width="150" height="106"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/2part_house.jpg" width="150" height="106"></td>
           <td>In one group, the partners insisted they did not want to work on 
             a single house. As a comprimise, they made a house with two wings 
             connected by a tube. Even though they worked mostly separately, the 
             two sections of the house did have lots in common. </td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><a href="/a2z/s/smart_house_workshop/images/fruit_miracle_lg.jpg" target="_blank"><img src="/a2z/s/smart_house_workshop/images/fruit_miracle_sm.jpg" width="150" height="113" border="2"></a></td>
+          <td><a href="../../a2z/s/smart_house_workshop/images/fruit_miracle_lg.jpg" target="_blank"><img src="../../a2z/s/smart_house_workshop/images/fruit_miracle_sm.jpg" width="150" height="113" border="2"></a></td>
           <td>Near the end of the workshop, we ask the teams to write a label 
             for their house. They came up with a name for the house and a bit 
             about where they got the idea for the house.</td>
@@ -291,20 +291,20 @@ function MM_swapImage() { //v3.0
         <tr> 
           <td colspan="2"><div align="center"><span class="style2">Other Thoughts 
               &amp; Reflections</span><br>
-              <img src="/a2z/images/line_500.gif" width="502" height="12"> </div></td>
+              <img src="../../a2z/images/line_500.gif" width="502" height="12"> </div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/pear_house.jpg" width="150" height="205"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/pear_house.jpg" width="150" height="205"></td>
           <td><p>Shoe boxes are okay, but when we don't provide lots of boxes, 
               the houses are much more creative.</p>
             <p>This, for example, is a pear-shaped fruit house. It had an apple-shaped 
               garage.</p></td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/drawbridge.jpg" width="150" height="149"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/drawbridge.jpg" width="150" height="149"></td>
           <td><p>Fewer LEGO pieces is/are better. At the beginning of the class 
               we explained that you can take home what your build out of recycled 
               materials, but that LEGO pieces need to stay at the museum (another 
@@ -313,10 +313,10 @@ function MM_swapImage() { //v3.0
               the mechanism that moved the drawbridge.</p></td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/folding.jpg" width="150" height="154"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/folding.jpg" width="150" height="154"></td>
           <td><p>I worked on a house during the week. It was partially built on 
               the first day, and I added to it and changed it each day. It was 
               a good way to introduce new materials and programming ideas during 
@@ -325,10 +325,10 @@ function MM_swapImage() { //v3.0
               how I sometimes use accordian-folded paper in projects.</p></td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
         <tr> 
-          <td><img src="/a2z/s/smart_house_workshop/images/writing.jpg" width="150" height="222"></td>
+          <td><img src="../../a2z/s/smart_house_workshop/images/writing.jpg" width="150" height="222"></td>
           <td>Writing labels for the houses helps the builders reflect a little 
             on what they made and where they got their ideas. It helped to ask 
             them questions during the week (Who lives in this house? What's special 
@@ -336,7 +336,7 @@ function MM_swapImage() { //v3.0
             it.</td>
         </tr>
         <tr>
-          <td colspan="2"><div align="center"><img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+          <td colspan="2"><div align="center"><img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
         </tr>
       </table>
 </td>
@@ -352,7 +352,7 @@ function MM_swapImage() { //v3.0
 <td align="center" valign="bottom">
 
 <font size="-2" face="Verdana, Arial, Helvetica, sans-serif">
-<a href="/">Home</a> | <a href="/a2z/">Things to Try</a> | <a href="/ideas/">Project Gallery</a> | <a href="/workshops/">Workshops</a> | <a href="/events/">Events</a> | <a href="/crickets/">Crickets</a> | <a href="/about/">About PIE</a>
+<a href="../../">Home</a> | <a href="../../a2z/">Things to Try</a> | <a href="../../ideas/">Project Gallery</a> | <a href="../../workshops/">Workshops</a> | <a href="../../events/">Events</a> | <a href="../../crickets/">Crickets</a> | <a href="../../about/">About PIE</a>
 <br><br>
  Send suggestions to the <a href="mailto:piewebteam&#64;smm.org">PIE web team</a>
 </font>

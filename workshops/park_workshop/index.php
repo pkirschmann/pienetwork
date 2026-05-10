@@ -2,7 +2,7 @@
 <head>
 <title>Playful Invention and Exploration - A Day in the Park</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="../../css/main.css">
 <script language="JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -33,42 +33,42 @@ function MM_swapImage() { //v3.0
 
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('/images/navi/home-over.gif','/images/navi/a2zOVER.gif','/images/navi/cricketOVER.gif','/images/navi/scrapbookOVER.gif','/images/navi/resourcesOVER.gif','/images/navi/sign_over.gif','/images/navi/balloon_over.gif')">
+<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('../../images/navi/home-over.gif','../../images/navi/a2zOVER.gif','../../images/navi/cricketOVER.gif','../../images/navi/scrapbookOVER.gif','../../images/navi/resourcesOVER.gif','../../images/navi/sign_over.gif','../../images/navi/balloon_over.gif')">
 
 <table width="700" border="0" cellspacing="0" cellpadding="5">
 <tr>
 
 <td rowspan="2" width="70" align="center" valign="top">
 
-<a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/navi/home-over.gif',1)"><img name="home" border="0" src="/images/navi/home-up.gif" width="50" height="50" align="top"></a><br>
-<a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/navi/home-over.gif',1)">Home</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8" align="middle"><br>
+<a href="../../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../../images/navi/home-over.gif',1)"><img name="home" border="0" src="../../images/navi/home-up.gif" width="50" height="50" align="top"></a><br>
+<a href="../../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../../images/navi/home-over.gif',1)">Home</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8" align="middle"><br>
 
-<a href="/a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','/images/navi/resourcesOVER.gif',1)"><img name="resources" border="0" src="/images/navi/resourcesICON.gif" height="40"></a><br>
-<a href="/a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','/images/navi/resourcesOVER.gif',1)">Things to Try</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','../../images/navi/resourcesOVER.gif',1)"><img name="resources" border="0" src="../../images/navi/resourcesICON.gif" height="40"></a><br>
+<a href="../../a2z/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','../../images/navi/resourcesOVER.gif',1)">Things to Try</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','/images/navi/a2zOVER.gif',1)"><img src="/images/navi/a2zICON.gif" name="a2z" width="45" height="45" border="0" id="a2z"></a><br>
-<a href="/ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','/images/navi/a2zOVER.gif',1)">Project Gallery</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','../../images/navi/a2zOVER.gif',1)"><img src="../../images/navi/a2zICON.gif" name="a2z" width="45" height="45" border="0" id="a2z"></a><br>
+<a href="../../ideas/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2z','','../../images/navi/a2zOVER.gif',1)">Project Gallery</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','/images/navi/cricketOVER.gif',1)"><img src="/images/navi/cricketICON.gif" name="cricket" width="50" height="47" border="0" id="cricket"></a><br>
-<a href="/crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','/images/navi/cricketOVER.gif',1)">Crickets</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','../../images/navi/cricketOVER.gif',1)"><img src="../../images/navi/cricketICON.gif" name="cricket" width="50" height="47" border="0" id="cricket"></a><br>
+<a href="../../crickets/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cricket','','../../images/navi/cricketOVER.gif',1)">Crickets</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','/images/navi/scrapbookOVER.gif',1)"><img name="scrapbook" border="0" src="/images/navi/scrapbookICON.gif" width="59" height="40"></a><br>
-<a href="/events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','/images/navi/scrapbookOVER.gif',1)">Events</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','../../images/navi/scrapbookOVER.gif',1)"><img name="scrapbook" border="0" src="../../images/navi/scrapbookICON.gif" width="59" height="40"></a><br>
+<a href="../../events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('scrapbook','','../../images/navi/scrapbookOVER.gif',1)">Events</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
 
-<a href="/workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','/images/navi/sign_over.gif',1)"><img src="/images/navi/sign_up.gif" name="sign11" width="60" height="58" border="0" id="sign1"></a><br>
-<a href="/workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','/images/navi/sign_over.gif',1)">Workshops</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8"><br>
+<a href="../../workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','../../images/navi/sign_over.gif',1)"><img src="../../images/navi/sign_up.gif" name="sign11" width="60" height="58" border="0" id="sign1"></a><br>
+<a href="../../workshops/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sign11','','../../images/navi/sign_over.gif',1)">Workshops</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8"><br>
 
-<a href="/philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','/images/navi/balloon_over.gif',1)"><img src="/images/navi/balloon_up.gif" name="balloon11" width="60" height="38" border="0" id="balloon1"></a><br>
+<a href="../../philosophy/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','../../images/navi/balloon_over.gif',1)"><img src="../../images/navi/balloon_up.gif" name="balloon11" width="60" height="38" border="0" id="balloon1"></a><br>
 
-<a href="/about/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','/images/navi/balloon_over.gif',1)">About PIE</a><br>
-<img src="/images/navi/small-line.jpg" width="54" height="8">
+<a href="../../about/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('balloon11','','../../images/navi/balloon_over.gif',1)">About PIE</a><br>
+<img src="../../images/navi/small-line.jpg" width="54" height="8">
 
 <br><br><br>
 
@@ -79,10 +79,10 @@ function MM_swapImage() { //v3.0
 
 
 
-<link href="/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../css/main.css" rel="stylesheet" type="text/css">
 <title>&quot;A Day in the Park&quot; workshop</title><table width="650" border="0" cellspacing="0" cellpadding="0">
 <tr align=center>
-  <td><p><img src="/images/playful_header_sm.gif" width="494" height="66"></p>
+  <td><p><img src="../../images/playful_header_sm.gif" width="494" height="66"></p>
     <p>&nbsp;</p></td>
 </tr>
 <tr align=center>
@@ -123,7 +123,7 @@ function MM_swapImage() { //v3.0
   <td height="49" colspan="2"><div align="center" class="style2">
     Goals of the
       Workshop<br>
-  <img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+  <img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
 </tr>
 <tr valign="top">
   <td colspan="2"><p>    - Get inspired by thinking about experiences
@@ -137,7 +137,7 @@ function MM_swapImage() { //v3.0
 </tr>
 <tr>
 <td height="37" colspan="2"><div align="center" class="style2">Materials<br>
-  <img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+  <img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
 </tr>
 <tr>
   <td height="378" valign="top"><br>    <img src="images/supplies1.jpg" width="150" height="113"><br>
@@ -176,7 +176,7 @@ function MM_swapImage() { //v3.0
 
 <tr>
   <td colspan="2"><div align="center" class="style2">Set Up<br>
-    <img src="/a2z/images/line_500.gif" width="502"></div></td>
+    <img src="../../a2z/images/line_500.gif" width="502"></div></td>
 </tr>
 <tr>
   <td ><img src="images/reacher_animated.gif" width="150" height="113"><br></td>
@@ -190,7 +190,7 @@ function MM_swapImage() { //v3.0
       </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td width="156" height="143"><img src="images/balsa.jpg" width="150" height="139"></td>
@@ -206,7 +206,7 @@ function MM_swapImage() { //v3.0
       examples that combine LEGO parts with craft materials.</p></td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
   </tr>
 <tr>
   <td><a href="images/platforms.jpg"><img src="images/platforms-thumb.jpg" width="150" height="128" border="0"></a></td>
@@ -219,7 +219,7 @@ function MM_swapImage() { //v3.0
     </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="58"><img src="images/park.jpg" width="150" height="253"></td>
@@ -232,7 +232,7 @@ brown paper. </p>
     </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="166"><img src="images/natural.jpg" width="150" height="165"></td>
@@ -246,7 +246,7 @@ brown paper. </p>
     </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="74" valign="top"><img src="images/paper-fish.jpg" width="150" height="64"></td>
@@ -258,7 +258,7 @@ brown paper. </p>
 
 <tr>
   <td colspan="2"><div align="center" class="style2">Introduction<br>
-    <img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+    <img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
 </tr>
 
 <tr>
@@ -277,7 +277,7 @@ brown paper. </p>
   </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 
 <tr valign="top">
@@ -290,7 +290,7 @@ brown paper. </p>
   </td>
 </tr>
 <tr>
-  <td height="27" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="27" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="124"><img src="images/grassy.jpg" width="150" height="114"></td>
@@ -299,7 +299,7 @@ brown paper. </p>
   </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="171"><a href="images/giraffe-big.jpg"><img src="images/giraffe.jpg" width="150" height="143" border="0"></a></td>
@@ -314,7 +314,7 @@ brown paper. </p>
   </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="157"><img src="images/present.jpg" width="150" height="124"></td>
@@ -332,7 +332,7 @@ move. </p>
 <tr>
   <td colspan="2"><div align="center" class="style2">
     Working &amp; Playing<br>
-    <img src="/a2z/images/line_500.gif" width="502" height="12"></div></td>
+    <img src="../../a2z/images/line_500.gif" width="502" height="12"></div></td>
 </tr>
 <tr>
   <td height="144"><img src="images/whattodo.jpg" width="150" height="134"></td>
@@ -342,7 +342,7 @@ move. </p>
   </td>
 </tr>
 <tr>
-  <td colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="123"><img src="images/module-choosing.jpg" width="150" height="113"></td>
@@ -355,7 +355,7 @@ move. </p>
       </p></td>
 </tr>
 <tr>
-  <td colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 
 <tr>
@@ -367,7 +367,7 @@ move. </p>
   </td>
 </tr>
 <tr>
-  <td colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td><img src="images/spinningtree.jpg" width="150" height="135"></td>
@@ -376,7 +376,7 @@ move. </p>
   </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="90" valign="top"><img src="images/pico-code.gif" width="150" height="74"></td>
@@ -389,7 +389,7 @@ move. </p>
       </td>
 </tr>
 <tr>
-  <td colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td height="123"><a href="images/inventorform-big.jpg"><img src="images/inventorform.jpg" width="150" height="113" border="0"></a></td>
@@ -403,7 +403,7 @@ move. </p>
   </td>
 </tr>
 <tr>
-  <td height="23" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="23" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td><img src="images/park-motherson.jpg" width="150" height="168"></td>
@@ -412,7 +412,7 @@ move. </p>
   </td>
 </tr>
 <tr>
-  <td height="22" colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td height="22" colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 <tr>
   <td><img src="images/seepark.jpg" width="150" height="89"></td>
@@ -425,7 +425,7 @@ move. </p>
 <tr>
   <td colspan="2"><div align="center" class="style2">
     Other Thoughts &amp; Reflections<br>
-          <img src="/a2z/images/line_500.gif" width="502" height="12"></div>
+          <img src="../../a2z/images/line_500.gif" width="502" height="12"></div>
   </td>
 </tr>
 <tr>
@@ -455,7 +455,7 @@ move. </p>
   </td>
   </tr>
 <tr>
-  <td colspan="2"><img src="/a2z/images/line_500.gif" width="502" height="12"></td>
+  <td colspan="2"><img src="../../a2z/images/line_500.gif" width="502" height="12"></td>
 </tr>
 
 </table>
@@ -472,7 +472,7 @@ move. </p>
 <td align="center" valign="bottom">
 
 <font size="-2" face="Verdana, Arial, Helvetica, sans-serif">
-<a href="/">Home</a> | <a href="/a2z/">Things to Try</a> | <a href="/ideas/">Project Gallery</a> | <a href="/workshops/">Workshops</a> | <a href="/events/">Events</a> | <a href="/crickets/">Crickets</a> | <a href="/about/">About PIE</a>
+<a href="../../">Home</a> | <a href="../../a2z/">Things to Try</a> | <a href="../../ideas/">Project Gallery</a> | <a href="../../workshops/">Workshops</a> | <a href="../../events/">Events</a> | <a href="../../crickets/">Crickets</a> | <a href="../../about/">About PIE</a>
 <br><br>
  Send suggestions to the <a href="mailto:piewebteam&#64;smm.org">PIE web team</a>
 </font>
